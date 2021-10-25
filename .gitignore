@@ -1,0 +1,10 @@
+*.project
+*.pdf
+*.bak
+.idea
+*.png
+*.jpg
+*.jpeg
+*__pycache__*
+*.pyc
+venv
